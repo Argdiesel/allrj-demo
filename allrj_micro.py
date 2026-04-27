@@ -20,8 +20,8 @@ st.set_page_config(
 
 # ── STRIPE PAYMENT LINK ───────────────────────────────────
 # Replace this with your actual Stripe payment link
-STRIPE_LINK = "STRIPE_LINK = "https://buy.stripe.com/aFa6oIcaN1LM2vX6ex8ww00""
-PRICE       = "£29/mo"
+STRIPE_LINK = "https://buy.stripe.com/aFa6oIcaN1LM2vX6ex8ww00"
+PRICE       = "$29/mo"
 
 # ── CSS ───────────────────────────────────────────────────
 st.markdown("""
